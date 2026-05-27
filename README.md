@@ -7,3 +7,6 @@ cd fintime_dashboard
 
 ## Run Dashboard
 streamlit run dashboard.py
+
+## Tautan Dashboard
+https://fintimedashboard.streamlit.app/
